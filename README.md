@@ -91,7 +91,7 @@ Adaptive Signal Switching Algorithm
 * **OpenCV**
 * **NumPy**
 * **Object Detection Models**
-* **Pygame / Custom UI** for simulation (depending on your implementation)
+* **Pygame / Custom UI** for simulation 
 
 ---
 
