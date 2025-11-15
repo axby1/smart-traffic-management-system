@@ -72,17 +72,6 @@ Adaptive Signal Switching Algorithm
         ▼
    Simulation Module (Visualization & Comparison)
 ```
-
----
-
-## Tech Stack
-
-* **Python**
-* **OpenCV**
-* **NumPy**
-* **Object Detection Models**
-* **Pygame / Custom UI** for simulation (depending on your implementation)
-
 ---
 
 ## How It Works
@@ -93,6 +82,16 @@ Adaptive Signal Switching Algorithm
 4. Feed density into adaptive signal algorithm.
 5. Generate optimized signal timings.
 6. Visualize and compare with static signal system.
+
+---
+
+## Tech Stack
+
+* **Python**
+* **OpenCV**
+* **NumPy**
+* **Object Detection Models**
+* **Pygame / Custom UI** for simulation (depending on your implementation)
 
 ---
 
